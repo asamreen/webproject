@@ -14,4 +14,4 @@ dotnet run
 
 
 # click on below for project real time hosted link
-Project hosted link : 
+Project hosted link : https://velvety-crisp-d4ccd3.netlify.app/
